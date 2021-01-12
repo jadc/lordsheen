@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "RRR"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:redstone"
+        },
+        "R": {
+            "item": "minecraft:redstone_block"
+        }
+    },
+    "result": {
+        "item": "lordsheen:combhead",
+        "count": 1
+    }
+}

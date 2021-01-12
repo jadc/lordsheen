@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "lordsheen",
+  "version": "${version}",
+
+  "name": "lordsheen mod",
+  "description": "combhead",
+  "authors": ["jadc"],
+  "contact": {
+    "homepage": "https://curseforge.com/mc-mods/lordsheen",
+    "sources": "https://github.com/jadc/lordsheen"
+  },
+
+  "license": "MIT",
+  "icon": "assets/lordsheen/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "red.jad.lordsheen.LS"
+    ]
+  },
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*"
+  }
+}

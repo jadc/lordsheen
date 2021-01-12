@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=south": { "model": "lordsheen:block/combhead" },
+    "facing=west":  { "model": "lordsheen:block/combhead", "y":  90},
+    "facing=north": { "model": "lordsheen:block/combhead", "y": 180 },
+    "facing=east":  { "model": "lordsheen:block/combhead", "y": 270 }
+  }
+}
